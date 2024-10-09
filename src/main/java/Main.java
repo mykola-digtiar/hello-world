@@ -4,5 +4,6 @@ public class Main {
         String teacherName = "Mykola Digtiar";
 
         System.out.println(teacherName);
+
     }
 }
